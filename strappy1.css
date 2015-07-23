@@ -1,0 +1,9 @@
+.prod-right {
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.prod-right-col {
+  width: 47%;
+  display: inline-block;
+}
